@@ -81,3 +81,8 @@
     border-radius: 11px;
     color: white;
 }
+
+.nav-link{
+  text-decoration: none;
+  color: rgb(96, 92, 92);
+}
